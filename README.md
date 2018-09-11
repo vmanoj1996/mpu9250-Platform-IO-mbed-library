@@ -1,7 +1,7 @@
 # mpu9250-library
 Library for interfacing mpu9250 with Mbed supported boards.  
 
-Takes in Raw Accelerometer and Gyro Readings and applies complementary filter to get Pitch and Roll.  
+Takes in Raw Accelerometer and Gyro Readings and applies complementary filter to get Pitch and Roll. It cannot get yaw angle!!
 
 Tested with ST-Nucleo F446RE board  
 
