@@ -5,4 +5,4 @@ Takes in Raw Accelerometer and Gyro Readings and applies complementary filter to
 
 Tested with ST-Nucleo F446RE board  
 
-Please Note that the library is not drectly compatible with mbed online compiler(Since it uses ARMCC compiler and doesnot support C++11 yet)
+Please Note that the library is not drectly compatible with mbed online compiler(Since Mbed online uses ARMCC compiler and doesnot support C++11 yet)
